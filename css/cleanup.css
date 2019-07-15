@@ -5,12 +5,6 @@
   display: block;
 }
 
-.tag-1 {
-  background: url(../images/tag-1.png) no-repeat;
-  z-index: 7;
-  display: block;
-}
-
 #tag-2 {
   background: url(../images/tag-2.png) no-repeat;
   z-index: 7;
