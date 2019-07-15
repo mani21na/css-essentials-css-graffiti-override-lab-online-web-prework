@@ -17,8 +17,8 @@
   display: block;
 }
 
-.tag-1 {
-  background: url(../images/tag-1.png) no-repeat;
+#tag-3 {
+  background: url(../images/tag-3.png) no-repeat;
   z-index: 7;
   display: block;
 }
